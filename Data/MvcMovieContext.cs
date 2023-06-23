@@ -15,5 +15,7 @@ namespace MvcMovie.Data
         }
 
         public DbSet<VuQuangKhai0323.Models.VQKSinhvien> VQKSinhvien { get; set; } = default!;
+
+        public DbSet<VuQuangKhai0323.Models.VQKLophoc> VQKLophoc { get; set; } = default!;
     }
 }

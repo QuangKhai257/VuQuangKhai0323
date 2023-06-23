@@ -18645,8 +18645,23 @@
   "RootNamespace": "VuQuangKhai0323",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\Views\\VQKLophoc\\Edit.cshtml",
+      "TargetPath": "Views\\VQKLophoc\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\Views\\VQKLophoc\\Index.cshtml",
+      "TargetPath": "Views\\VQKLophoc\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\Views\\VQKLophoc\\Details.cshtml",
+      "TargetPath": "Views\\VQKLophoc\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18682,6 +18697,16 @@
     {
       "FilePath": "c:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\Views\\VQKLophoc\\Delete.cshtml",
+      "TargetPath": "Views\\VQKLophoc\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\Views\\VQKLophoc\\Create.cshtml",
+      "TargetPath": "Views\\VQKLophoc\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
