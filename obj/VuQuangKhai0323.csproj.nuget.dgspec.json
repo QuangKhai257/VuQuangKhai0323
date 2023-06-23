@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VuQuangKhai0323\\VuQuangKhai0323.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\VuQuangKhai0323.csproj": {}
   },
   "projects": {
-    "D:\\VuQuangKhai0323\\VuQuangKhai0323.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\VuQuangKhai0323.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VuQuangKhai0323\\VuQuangKhai0323.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\VuQuangKhai0323.csproj",
         "projectName": "VuQuangKhai0323",
-        "projectPath": "D:\\VuQuangKhai0323\\VuQuangKhai0323.csproj",
-        "packagesPath": "C:\\Users\\LAPTOPSN\\.nuget\\packages\\",
-        "outputPath": "D:\\VuQuangKhai0323\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\VuQuangKhai0323.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Thi PTPMQL\\VuQuangKhai0323\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LAPTOPSN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +38,36 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
